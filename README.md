@@ -15,8 +15,7 @@ This repository is part of the ML Arena family, a set of 5 dedicated repositorie
 
 ## Dataset
 
-Path: `problems/03_decision_tree/dataset.csv`
-
+* File: `dataset.csv`
 * Source: UCI Adult / Census Income
 * Rows: 10000
 * Columns: 15 (after preprocessing)
